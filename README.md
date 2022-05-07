@@ -22,6 +22,10 @@ at https://github.com/trentynp/Note-Taker
 3. Enter your note's title and text into the appropriate fields in the right-hand portion of the screen.
 4. Click the Save icon in the navigation bar in the top right of the screen.
 
+## Deployment
+
+You can use the Note-Taker app at https://work-damn-you2.herokuapp.com/
+
 ### Reach me here:
 
 [trentynp](https://github.com/trentynp)  

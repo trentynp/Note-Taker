@@ -11,3 +11,11 @@ if (window.location.pathname === '/notes') {
   newNoteBtn = document.querySelector('.new-note');
   noteList = document.querySelectorAll('.list-container .list-group');
 }
+
+const show = (elem) => {
+    elem.style.display = 'inline';
+  };
+
+  const hide = (elem) => {
+    elem.style.display = 'none';
+  };

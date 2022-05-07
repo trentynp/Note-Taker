@@ -95,3 +95,16 @@ const handleNoteSave = () => {
     activeNote = JSON.parse(e.target.parentElement.getAttribute('data-note'));
     renderActiveNote();
   };
+
+  const handleNewNoteView = (e) => {
+    activeNote = {};
+    renderActiveNote();
+  };
+
+  const handleRenderSaveBtn = () => {
+    if (!noteTitle.value.trim() || !noteText.value.trim()) {
+      hide(saveNoteBtn);
+    } else {
+      show(saveNoteBtn);
+    }
+  };

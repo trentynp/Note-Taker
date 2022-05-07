@@ -8,15 +8,15 @@ body {
 
 h1,
 h4 {
-    color: rgb(72, 8, 175);
+    color: red;
 }
 
 .btn {
-    background-color: rgb(72, 8, 175);
+    background-color: red;
 }
 
 .navbar {
-    background-color: rgb(72, 8, 175);
+    background-color: red;
 }
 
 .navbar-brand {
@@ -36,7 +36,7 @@ h4 {
 
 .note-textarea,
 .note-title {
-    color: rgb(72, 8, 175);
+    color: red;
     width: 100%;
     outline: none;
     border: none;
@@ -44,12 +44,12 @@ h4 {
 
 .note-textarea::placeholder,
 .note-title::placeholder {
-    color: rgba(108, 62, 184, 0.699);
+    color: red;
 }
 
 .note-title:read-only,
 .note-textarea:read-only {
-    color: rgb(72, 8, 175);
+    color: red;
 }
 
 .note-textarea {
@@ -84,7 +84,7 @@ h4 {
 }
 
 .list-item-title {
-    color: rgb(72, 8, 175);
+    color: red;
     display: inline-block;
     width: 75%;
 }

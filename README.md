@@ -26,6 +26,9 @@ at https://github.com/trentynp/Note-Taker
 
 You can use the Note-Taker app at https://work-damn-you2.herokuapp.com/
 
+![alt text](./pics/note%201.JPG)
+![alt text](./pics/note%202.JPG)
+
 ### Reach me here:
 
 [trentynp](https://github.com/trentynp)  
